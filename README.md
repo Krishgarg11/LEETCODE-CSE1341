@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Krishgarg11/LEETCODE-CSE1341/tree/master/0013-roman-to-integer) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Krishgarg11/LEETCODE-CSE1341/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
 |  |
 | ------- |
@@ -13,4 +14,5 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Krishgarg11/LEETCODE-CSE1341/tree/master/0013-roman-to-integer) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Krishgarg11/LEETCODE-CSE1341/tree/master/3120-count-the-number-of-special-characters-i) |
 <!---LeetCode Topics End-->
