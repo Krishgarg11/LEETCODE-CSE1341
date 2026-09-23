@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Krishgarg11/LEETCODE-CSE1341/tree/master/0013-roman-to-integer) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Krishgarg11/LEETCODE-CSE1341/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Krishgarg11/LEETCODE-CSE1341/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## String
 |  |
